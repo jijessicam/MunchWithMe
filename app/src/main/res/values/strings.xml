@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MunchWithMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_picker_text">Select Time</string>
+
+    <string-array name="locations">
+        <item>Select Location</item>
+        <item>Butler</item>
+        <item>CJL</item>
+        <item>Forbes</item>
+        <item>Mathey</item>
+        <item>Rocky</item>
+        <item>Whitman</item>
+        <item>Wilson</item>
+    </string-array>
+
+    <string name="create_event_button">Create New Event</string>
+</resources>
